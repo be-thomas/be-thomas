@@ -17,7 +17,7 @@ In my free time, I go through Open Source repositories to suggest improvements/b
 
 - 🔭 I’m currently working on Game Development Tools
 - 💬 Ask me about Gamedev, Web Design, Competitive Programming
-- ⚡ Fun fact: I like Functional Programming
+- ⚡ Fun fact: I ♥️ Functional Programming
 
 ## Technologies I know :
 
@@ -28,10 +28,10 @@ In my free time, I go through Open Source repositories to suggest improvements/b
 <img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" />
 <img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="Javascript" />
 <img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" />
-<img align="left" width="30" src="" alt="Haskell" />
-<img align="left" width="30" src="" alt="OCaml" />
-<img align="left" width="30" src="" alt="Lua" />
-<img align="left" width="30" src="" alt="Dart" />
+<img align="left" width="30" src="haskell-logo.png" alt="Haskell" />
+<img align="left" width="30" src="ocaml-logo.png" alt="OCaml" />
+<img align="left" width="30" src="lua-logo.png" alt="Lua" />
+<img align="left" width="30" src="dart-logo.png" alt="Dart" />
 <br /><br /><br />
 
 
