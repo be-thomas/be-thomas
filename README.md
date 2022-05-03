@@ -10,8 +10,8 @@
 \
 **🎮 Game Developer | 💻 Full Stack Developer**
 
-I'm a passionate programmer who enjoys facing challenges every now & then.
-Some times I like to "Re-invent the wheel", just to learn how things work internally. 
+I'm a passionate programmer who enjoys facing challenges every now & then.<br />
+Some times I like to "Re-invent the wheel", just to learn how things work internally. <br />
 In my free time, I go through Open Source repositories to suggest improvements/bugs.
 
 
@@ -43,5 +43,29 @@ In my free time, I go through Open Source repositories to suggest improvements/b
 - <p><img align="left" src="solar2d-logo.png" width="30" alt="Solar2D logo" />Solar2D </p>
 - <p><img align="left" src="pygame-logo.png" width="30" alt="Pygame logo" /> pygame </p>
 
+
+## Games built by me
+
+### Memory Puzzle CLI
+Project Link: [https://github.com/be-thomas/memory-puzzle](https://github.com/be-thomas/memory-puzzle)
+
+<img src="https://github.com/be-thomas/memory-puzzle/raw/master/image2.png" alt="Memory Puzzle CLI" height="400" />
+
+
+### Memory Puzzle GUI
+Project Link: [https://github.com/be-thomas/memory-puzzle](https://github.com/be-thomas/memory-puzzle)
+
+<img src="https://github.com/be-thomas/memory-puzzle/raw/master/image4.png" alt="Memory Puzzle GUI" height="400" />
+
+
+### Tic Tac Toe - Multiplayer
+Project Link: [https://github.com/be-thomas/tictactoe](https://github.com/be-thomas/tictactoe)
+
+Play Online: [https://tictactoe.codewithzeal.com/](https://tictactoe.codewithzeal.com/)
+
+<img src="https://github.com/be-thomas/tictactoe/raw/main/public/ingame-phone.jpeg" alt="Tic Tac Toe Multiplayer" height="400" />
+
+
+### Other Game Demo Previews
 
 
