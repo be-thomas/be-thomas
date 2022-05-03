@@ -21,8 +21,19 @@ In my free time, I go through Open Source repositories to suggest improvements/b
 
 ## Technologies I know :
 
+### Programming Languages
+- C
+- C++
+- Python
+- Java
+- JavaScript
+- Haskell
+- OCaml
+- Lua
+- Dart
+
 ### Game Development
-- <p><img align="left" src="love2d-logo.png" width="30" alt="Love2D logo" />Love2D</p>
+- <img align="left" src="love2d-logo.png" width="30" alt="Love2D logo" />Love2D
 - <p><img align="left" src="unity-logo.png" width="30" alt="Unity logo" />Unity</p>
 - <p><img align="left" src="godot-logo.png" width="30" alt="Godot logo" />Godot</p>
 - <p><img align="left" src="panda3d-logo.png" width="30" alt="Panda3D logo" />Panda3D</p>
