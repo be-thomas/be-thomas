@@ -26,7 +26,6 @@ In my free time, I go through Open Source repositories to suggest improvements/b
 - <p><img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" /> C++ </p>
 - <p><img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" /> Python </p>
 - <p><img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" /> Java </p>
-
 - <p><img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="Javascript" /> JavaScript </p>
 - <p><img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" /> Typescript </p>
 - <p><img align="left" width="30" src="" alt="Haskell" /> Haskell </p>
