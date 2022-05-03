@@ -22,22 +22,24 @@ In my free time, I go through Open Source repositories to suggest improvements/b
 ## Technologies I know :
 
 ### Programming Languages
-- C
-- C++
-- Python
-- Java
-- JavaScript
-- Haskell
-- OCaml
-- Lua
-- Dart
+- <img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" /> C
+- <img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" /> C++
+- <img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" /> Python
+- <img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" /> Java
+- <img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="Javascript" /> JavaScript
+- <img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" /> Typescript
+- <img align="left" width="30" src="" alt="Haskell" /> Haskell
+- <img align="left" width="30" src="" alt="OCaml" /> OCaml
+- <img align="left" width="30" src="" alt="Lua" /> Lua
+- <img align="left" width="30" src="" alt="Dart" /> Dart
 
 ### Game Development
-- <img align="left" src="love2d-logo.png" width="30" alt="Love2D logo" />Love2D
-- <p><img align="left" src="unity-logo.png" width="30" alt="Unity logo" />Unity</p>
-- <p><img align="left" src="godot-logo.png" width="30" alt="Godot logo" />Godot</p>
-- <p><img align="left" src="panda3d-logo.png" width="30" alt="Panda3D logo" />Panda3D</p>
-- <p><img align="left" src="solar2d-logo.png" width="30" alt="Solar2D logo" />Solar2D</p>
-- <p><img align="left" src="pygame-logo.png" width="30" alt="Pygame logo" />pygame</p>
+- <img align="left" src="love2d-logo.png" width="30" alt="Love2D logo" /> Love2D
+- <img align="left" src="unity-logo.png" width="30" alt="Unity logo" /> Unity
+- <img align="left" src="godot-logo.png" width="30" alt="Godot logo" /> Godot
+- <img align="left" src="panda3d-logo.png" width="30" alt="Panda3D logo" /> Panda3D
+- <img align="left" src="solar2d-logo.png" width="30" alt="Solar2D logo" />Solar2D
+- <img align="left" src="pygame-logo.png" width="30" alt="Pygame logo" /> pygame
+
 
 
