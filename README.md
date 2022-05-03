@@ -22,16 +22,18 @@ In my free time, I go through Open Source repositories to suggest improvements/b
 ## Technologies I know :
 
 ### Programming Languages
-- <p><img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" /> C </p>
-- <p><img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" /> C++ </p>
-- <p><img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" /> Python </p>
-- <p><img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" /> Java </p>
-- <p><img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="Javascript" /> JavaScript </p>
-- <p><img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" /> Typescript </p>
-- <p><img align="left" width="30" src="" alt="Haskell" /> Haskell </p>
-- <p><img align="left" width="30" src="" alt="OCaml" /> OCaml </p>
-- <p><img align="left" width="30" src="" alt="Lua" /> Lua </p>
-- <p><img align="left" width="30" src="" alt="Dart" /> Dart </p>
+<img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" />
+<img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" />
+<img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" />
+<img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" />
+<img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="Javascript" />
+<img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" />
+<img align="left" width="30" src="" alt="Haskell" />
+<img align="left" width="30" src="" alt="OCaml" />
+<img align="left" width="30" src="" alt="Lua" />
+<img align="left" width="30" src="" alt="Dart" />
+<br /><br /><br />
+
 
 ### Game Development
 - <p><img align="left" src="love2d-logo.png" width="30" alt="Love2D logo" /> Love2D </p>
