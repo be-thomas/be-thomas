@@ -22,11 +22,11 @@ In my free time, I go through Open Source repositories to suggest improvements/b
 ## Technologies I know :
 
 ### Game Development
-- <p><img align="left" src="https://love2d.org/w/images/6/68/love-app-0.10.png" width="30" alt="Love2D logo" />Love2D</p>
-- <p><img align="left" src="https://icon2.cleanpng.com/20181124/iys/kisspng-unity-logo-3d-computer-graphics-vector-graphics-so-5bf9941e4fb424.0823689415430830383265.jpg" width="30" alt="Unity logo" />Unity</p>
-- <p><img align="left" src="https://icon2.cleanpng.com/20180417/zjq/kisspng-godot-game-engine-computer-software-github-free-an-engine-5ad67c85d54834.1641405115240060218736.jpg" width="30" alt="Godot logo" />Godot</p>
-- <p><img align="left" src="https://love2d.org/w/images/6/68/love-app-0.10.png" width="30" alt="Panda3D logo" />Panda3D</p>
-- <p><img align="left" src="https://love2d.org/w/images/6/68/love-app-0.10.png" width="30" alt="Solar2D logo" />Solar2D</p>
-- <p><img align="left" src="https://love2d.org/w/images/6/68/love-app-0.10.png" width="30" alt="Pygame logo" />pygame</p>
+- <p><img align="left" src="love2d-logo.png" width="30" alt="Love2D logo" />Love2D</p>
+- <p><img align="left" src="unity-logo.png" width="30" alt="Unity logo" />Unity</p>
+- <p><img align="left" src="godot-logo.png" width="30" alt="Godot logo" />Godot</p>
+- <p><img align="left" src="panda3d-logo.png" width="30" alt="Panda3D logo" />Panda3D</p>
+- <p><img align="left" src="solar2d-logo.png" width="30" alt="Solar2D logo" />Solar2D</p>
+- <p><img align="left" src="pygame-logo.png" width="30" alt="Pygame logo" />pygame</p>
 
 
