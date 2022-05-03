@@ -8,7 +8,7 @@
 </div>
 
 \
-**Thomas Sudeep Benardo | 🎮 Game Developer | 💻 Full Stack Developer**
+**🎮 Game Developer | 💻 Full Stack Developer**
 
 I'm a passionate programmer who enjoys facing challenges every now & then.
 Some times I like to "Re-invent the wheel", just to learn how things work internally. 
