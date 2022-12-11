@@ -67,8 +67,8 @@ Play Online: [https://tictactoe.codewithzeal.com/](https://tictactoe.codewithzea
 
 
 ### Other Game Demo Previews
-<img src="game-preview-1.gif" alt="Game Preview 1" />
+<img src="game-preview-1.gif" alt="Game Preview 1" loading="lazy" />
 
-<img src="game-preview-2.gif" alt="Game Preview 2" />
+<img src="game-preview-2.gif" alt="Game Preview 2" loading="lazy" />
 
 P.S. : Stay tuned for more!
