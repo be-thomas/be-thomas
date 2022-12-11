@@ -22,12 +22,12 @@ In my free time, I go through Open Source repositories to suggest improvements/b
 ## Technologies I know :
 
 ### Programming Languages
-<img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" />
-<img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" />
-<img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" />
-<img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" />
-<img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="Javascript" />
-<img align="left" width="30" src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" />
+<img align="left" width="30" src="c.svg" alt="C" />
+<img align="left" width="30" src="c-plusplus.svg" alt="C++" />
+<img align="left" width="30" src="python.svg" alt="Python" />
+<img align="left" width="30" src="java.svg" alt="Java" />
+<img align="left" width="30" src="javascript.svg" alt="Javascript" />
+<img align="left" width="30" src="typescript-icon.svg" alt="Typescript" />
 <img align="left" width="30" src="haskell-logo.png" alt="Haskell" />
 <img align="left" width="30" src="ocaml-logo.png" alt="OCaml" />
 <img align="left" width="30" src="lua-logo.png" alt="Lua" />
