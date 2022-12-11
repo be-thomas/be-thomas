@@ -3,6 +3,8 @@
 <div style="display: flex">
   <a href="https://www.linkedin.com/in/thomas-benardo-860359169/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" title="LinkedIn" /></a>
   <a href="https://www.instagram.com/thomasb.dev/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40" title="Instagram" /></a>
+  <a href="https://wa.me/+916291347311"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="40" title="WhatsApp" /></a>
+  <a href="https://wa.me/+916291347311"><img src="https://edent.github.io/SuperTinyIcons/images/svg/safari.svg" width="40" title="Website" /></a>
   <a href="https://discordapp.com/users/353786934457270272"><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="40" title="Discord" /></a>
   <a href="mailto:thomasbenardo96@gmail.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="40" title="E-mail" /></a>
 </div>
