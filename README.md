@@ -51,18 +51,18 @@ Play Online: [http://tictactoe.be-thomas.com/](http://tictactoe.be-thomas.com/)
 ### Mobile UI Mockup
 Checkout online: [https://mobile-anim.be-thomas.com/](https://mobile-anim.be-thomas.com/)
 
-<img src="mobile-ui.jpeg" alt="Tic Tac Toe Multiplayer" height="400" />
+<img src="mobile-ui.jpg" alt="Tic Tac Toe Multiplayer" height="400" />
 
 ### Hitwicket Website
 Checkout online: [https://hitwicket.com/](https://hitwicket.com/)
 
-<img src="hitwicket-ss.jpeg" alt="Tic Tac Toe Multiplayer" height="400" />
+<img src="hitwicket-ss.jpg" alt="Tic Tac Toe Multiplayer" height="400" />
 
 
 ### Infobility Website
 Checkout online: [https://infobility.ca/](https://infobility.ca/)
 
-<img src="infobility-ss.jpeg" alt="Tic Tac Toe Multiplayer" height="400" />
+<img src="infobility-ss.jpg" alt="Tic Tac Toe Multiplayer" height="400" />
 
 
 
