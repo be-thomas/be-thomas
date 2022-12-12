@@ -24,16 +24,16 @@ In my free time, I go through Open Source repositories to suggest improvements/b
 ## Technologies I know :
 
 ### Programming Languages
-<img align="left" width="30" src="c.svg" alt="C" />
-<img align="left" width="30" src="c-plusplus.svg" alt="C++" />
-<img align="left" width="30" src="python.svg" alt="Python" />
-<img align="left" width="30" src="java.svg" alt="Java" />
-<img align="left" width="30" src="javascript.svg" alt="Javascript" />
-<img align="left" width="30" src="typescript-icon.svg" alt="Typescript" />
-<img align="left" width="30" src="haskell-logo.png" alt="Haskell" />
-<img align="left" width="30" src="ocaml-logo.png" alt="OCaml" />
-<img align="left" width="30" src="lua-logo.png" alt="Lua" />
-<img align="left" width="30" src="dart-logo.png" alt="Dart" />
+<img align="left" width="30" src="https://be-thomas.com/icons/c.svg" alt="C" />
+<img align="left" width="30" src="https://be-thomas.com/icons/c-plusplus.svg" alt="C++" />
+<img align="left" width="30" src="https://be-thomas.com/icons/python.svg" alt="Python" />
+<img align="left" width="30" src="https://be-thomas.com/icons/java.svg" alt="Java" />
+<img align="left" width="30" src="https://be-thomas.com/icons/javascript.svg" alt="Javascript" />
+<img align="left" width="30" src="https://be-thomas.com/icons/typescript-icon.svg" alt="Typescript" />
+<img align="left" width="30" src="https://be-thomas.com/icons/haskell-logo.png" alt="Haskell" />
+<img align="left" width="30" src="https://be-thomas.com/icons/ocaml-logo.png" alt="OCaml" />
+<img align="left" width="30" src="https://be-thomas.com/icons/lua-logo.png" alt="Lua" />
+<img align="left" width="30" src="https://be-thomas.com/icons/dart-logo.png" alt="Dart" />
 <br /><br /><br />
 
 ### Web Development
@@ -65,12 +65,12 @@ Checkout online: [https://infobility.ca/](https://infobility.ca/)
 
 
 ### Game Development
-- <p><img align="left" src="love2d-logo.png" width="30" alt="Love2D logo" /> Love2D </p>
-- <p><img align="left" src="unity-logo.png" width="30" alt="Unity logo" /> Unity </p>
-- <p><img align="left" src="godot-logo.png" width="30" alt="Godot logo" /> Godot </p>
-- <p><img align="left" src="panda3d-logo.png" width="30" alt="Panda3D logo" /> Panda3D </p>
-- <p><img align="left" src="solar2d-logo.png" width="30" alt="Solar2D logo" />Solar2D </p>
-- <p><img align="left" src="pygame-logo.png" width="30" alt="Pygame logo" /> pygame </p>
+- <p><img align="left" src="https://be-thomas.com/png-icons/love2d-logo.png" width="30" alt="Love2D logo" /> Love2D </p>
+- <p><img align="left" src="https://be-thomas.com/png-icons/unity-logo.png" width="30" alt="Unity logo" /> Unity </p>
+- <p><img align="left" src="https://be-thomas.com/png-icons/godot-logo.png" width="30" alt="Godot logo" /> Godot </p>
+- <p><img align="left" src="https://be-thomas.com/png-icons/panda3d-logo.png" width="30" alt="Panda3D logo" /> Panda3D </p>
+- <p><img align="left" src="https://be-thomas.com/png-icons/solar2d-logo.png" width="30" alt="Solar2D logo" />Solar2D </p>
+- <p><img align="left" src="https://be-thomas.com/png-icons/pygame-logo.png" width="30" alt="Pygame logo" /> pygame </p>
 
 
 ## Games built by me
