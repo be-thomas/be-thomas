@@ -56,13 +56,13 @@ Checkout online: [https://mobile-anim.be-thomas.com/](https://mobile-anim.be-tho
 ### Hitwicket Website
 Checkout online: [https://hitwicket.com/](https://hitwicket.com/)
 
-<img src="hitwicket-ss.jpg" alt="Tic Tac Toe Multiplayer" height="400" />
+<img src="hitwicket-ss.jpg" alt="Tic Tac Toe Multiplayer" height="auto" width="80%" />
 
 
 ### Infobility Website
 Checkout online: [https://infobility.ca/](https://infobility.ca/)
 
-<img src="infobility-ss.jpg" alt="Tic Tac Toe Multiplayer" height="400" />
+<img src="infobility-ss.jpg" alt="Tic Tac Toe Multiplayer" height="auto" width="80%" />
 
 
 
