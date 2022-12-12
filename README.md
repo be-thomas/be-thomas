@@ -36,7 +36,6 @@ In my free time, I go through Open Source repositories to suggest improvements/b
 <img align="left" width="30" src="dart-logo.png" alt="Dart" />
 <br /><br /><br />
 
-\
 
 <br />
 ### Web Development
@@ -46,24 +45,24 @@ Project Link: [https://github.com/be-thomas/tictactoe](https://github.com/be-tho
 
 Play Online: [http://tictactoe.be-thomas.com/](http://tictactoe.be-thomas.com/)
 
-<video style="height: 60vh;" autoplay loop muted><source src="tictactoe.mp4"></video>
+<img src="https://github.com/be-thomas/tictactoe/raw/main/public/ingame-phone.jpeg" alt="Tic Tac Toe Multiplayer" height="400" />
 
 
 ### Mobile UI Mockup
 Checkout online: [https://mobile-anim.be-thomas.com/](https://mobile-anim.be-thomas.com/)
 
-<img src="https://github.com/be-thomas/tictactoe/raw/main/public/ingame-phone.jpeg" alt="Tic Tac Toe Multiplayer" height="400" />
+<img src="mobile-ui.jpeg" alt="Tic Tac Toe Multiplayer" height="400" />
 
 ### Hitwicket Website
 Checkout online: [https://hitwicket.com/](https://hitwicket.com/)
 
-<img src="https://github.com/be-thomas/tictactoe/raw/main/public/ingame-phone.jpeg" alt="Tic Tac Toe Multiplayer" height="400" />
+<img src="hitwicket-ss.jpeg" alt="Tic Tac Toe Multiplayer" height="400" />
 
 
 ### Infobility Website
 Checkout online: [https://infobility.ca/](https://infobility.ca/)
 
-<img src="https://github.com/be-thomas/tictactoe/raw/main/public/ingame-phone.jpeg" alt="Tic Tac Toe Multiplayer" height="400" />
+<img src="infobility-ss.jpeg" alt="Tic Tac Toe Multiplayer" height="400" />
 
 
 
