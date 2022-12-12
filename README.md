@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/thomas-benardo-860359169/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="40" title="LinkedIn" /></a>
   <a href="https://www.instagram.com/thomasb.dev/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40" title="Instagram" /></a>
   <a href="https://wa.me/+916291347311"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="40" title="WhatsApp" /></a>
-  <a href="https://wa.me/+916291347311"><img src="https://edent.github.io/SuperTinyIcons/images/svg/safari.svg" width="40" title="Website" /></a>
+  <a href="https://be-thomas.com/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/safari.svg" width="40" title="Website" /></a>
   <a href="https://discordapp.com/users/353786934457270272"><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="40" title="Discord" /></a>
   <a href="mailto:thomasbenardo96@gmail.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="40" title="E-mail" /></a>
 </div>
@@ -36,6 +36,33 @@ In my free time, I go through Open Source repositories to suggest improvements/b
 <img align="left" width="30" src="dart-logo.png" alt="Dart" />
 <br /><br /><br />
 
+### Web Development
+
+### Tic Tac Toe - Multiplayer
+Project Link: [https://github.com/be-thomas/tictactoe](https://github.com/be-thomas/tictactoe)
+
+Play Online: [http://tictactoe.be-thomas.com/](http://tictactoe.be-thomas.com/)
+
+<video style="height: 60vh;" autoplay loop muted><source src="https://be-thomas.com/videos/tictactoe.mp4"></video>
+
+
+### Mobile UI Mockup
+Checkout online: [https://mobile-anim.be-thomas.com/](https://mobile-anim.be-thomas.com/)
+
+<img src="https://github.com/be-thomas/tictactoe/raw/main/public/ingame-phone.jpeg" alt="Tic Tac Toe Multiplayer" height="400" />
+
+### Hitwicket Website
+Checkout online: [https://hitwicket.com/](https://hitwicket.com/)
+
+<img src="https://github.com/be-thomas/tictactoe/raw/main/public/ingame-phone.jpeg" alt="Tic Tac Toe Multiplayer" height="400" />
+
+
+### Infobility Website
+Checkout online: [https://infobility.ca/](https://infobility.ca/)
+
+<img src="https://github.com/be-thomas/tictactoe/raw/main/public/ingame-phone.jpeg" alt="Tic Tac Toe Multiplayer" height="400" />
+
+
 
 ### Game Development
 - <p><img align="left" src="love2d-logo.png" width="30" alt="Love2D logo" /> Love2D </p>
@@ -58,15 +85,6 @@ Project Link: [https://github.com/be-thomas/memory-puzzle](https://github.com/be
 Project Link: [https://github.com/be-thomas/memory-puzzle](https://github.com/be-thomas/memory-puzzle)
 
 <img src="https://github.com/be-thomas/memory-puzzle/raw/master/image4.png" alt="Memory Puzzle GUI" height="400" />
-
-
-### Tic Tac Toe - Multiplayer
-Project Link: [https://github.com/be-thomas/tictactoe](https://github.com/be-thomas/tictactoe)
-
-Play Online: [https://tictactoe.codewithzeal.com/](https://tictactoe.codewithzeal.com/)
-
-<img src="https://github.com/be-thomas/tictactoe/raw/main/public/ingame-phone.jpeg" alt="Tic Tac Toe Multiplayer" height="400" />
-
 
 ### Other Game Demo Previews
 <img src="game-preview-1.gif" alt="Game Preview 1" loading="lazy" />
